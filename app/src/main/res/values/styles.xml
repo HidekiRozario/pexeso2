@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="hidden">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:background">@color/purple_500</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+    </style>
+    <style name="shown1">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/anime</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown2">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/ghibli1</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown3">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/howl</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown4">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/kiki</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown5">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/mononoke</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown6">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/ponyo</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown7">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/sophie</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown8">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/spiritedaway2</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown9">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/totoro</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown10">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/totoro2</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown11">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/wind</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+    <style name="shown12">
+        <item name="android:contentDescription">inclusive</item>
+        <item name="android:src">@mipmap/sootball</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+</resources>

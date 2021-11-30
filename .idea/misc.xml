@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/GhibliIcon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/Konata.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/anime.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/ghibliIcon.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/ghibliicon_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/konata.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/konata_round.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/totoro2.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/totoro2_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/totoro_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/wind.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/vojakja/pepev20/app/src/main/res/mipmap-anydpi-v26/wind_round.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
